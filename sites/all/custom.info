@@ -1,0 +1,4 @@
+name = Custom Module 
+package =  Xtra
+description= Custom Module  For Programming
+core = 7.x
